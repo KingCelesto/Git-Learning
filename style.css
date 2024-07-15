@@ -8,4 +8,5 @@ h1{
 div{
     background-color: black;
     color: red;
+    display: flex;
 }
